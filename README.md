@@ -155,6 +155,6 @@ This project demonstrates the power of data storytelling in HR. By combining sim
 
 ## Author
 [Ayeni Joshua Adaviriku]
-Data Analyst | Power BI Developer
-[LinkedIn Profile](www.linkedin.com/in/ayeni-joshua-adaviriku)
+Data Analyst | Power BI Developer | 
+[LinkedIn Profile](www.linkedin.com/in/ayeni-joshua-adaviriku) | 
 [Gmail](ayenijoshuaa@gmail.com) | [Portfolio](github.com/Ayeni01)
