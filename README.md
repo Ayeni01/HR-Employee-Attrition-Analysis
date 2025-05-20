@@ -45,7 +45,6 @@ This project explores patterns and drivers of employee attrition using historica
 | **Microsoft Excel** | Initial data cleaning and exploration |
 | **Power BI** | Dashboard design and data visualization |
 | **DAX** | Creation of dynamic KPIs and risk scoring |
-| **Python (optional)** | For potential automation or scripting |
 
 ---
 
@@ -138,3 +137,24 @@ This model helps HR prioritize interventions for individuals or departments.
 ![Retention Prediction   Risk Scoring](https://github.com/user-attachments/assets/aecbebf6-6991-4e05-a9e6-1413bf81ffce)
 ![KPI](https://github.com/user-attachments/assets/2c7fec51-4021-4deb-a194-173c8fe485f1)
 
+---
+
+## Limitations
+Static dataset; lacks time-series attrition tracking.
+
+Risk scoring uses rule-based weights, not machine learning.
+
+No external factors like engagement surveys or external offers included.
+
+---
+
+## Conclusion
+This project demonstrates the power of data storytelling in HR. By combining simple business rules with interactive visuals, HR teams can identify, understand, and reduce employee attrition in a data-driven way.
+
+---
+
+## Author
+[Ayeni Joshua Adaviriku]
+Data Analyst | Power BI Developer
+[LinkedIn Profile](www.linkedin.com/in/ayeni-joshua-adaviriku)
+[Gmail](ayenijoshuaa@gmail.com) | [Portfolio](github.com/Ayeni01)
