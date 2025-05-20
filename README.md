@@ -16,7 +16,6 @@
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
 - [Screenshots](#screenshots)
-- [How to Use](#how-to-use)
 - [Limitations](#limitations)
 - [Conclusion](#conclusion)
 - [Author](#author)
@@ -134,6 +133,7 @@ This model helps HR prioritize interventions for individuals or departments.
 ---
 
 ## Screenshots
+
 
 ![Attrition Dashboard](screenshots/attrition-dashboard.png)
 ![Retention Risk Analysis](screenshots/risk-score.png)
