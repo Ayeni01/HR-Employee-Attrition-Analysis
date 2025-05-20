@@ -106,8 +106,8 @@ Custom DAX score was built using:
 - Poor Environment Satisfaction = +15
 
 ### Risk Levels:
-- **Low Risk**: Score < 30
-- **Medium Risk**: 30 ≤ Score < 60
+- **Low Risk**: Score < 40
+- **Medium Risk**: 40 ≤ Score < 60
 - **High Risk**: Score ≥ 60
 
 This model helps HR prioritize interventions for individuals or departments.
@@ -134,7 +134,7 @@ This model helps HR prioritize interventions for individuals or departments.
 
 ## Screenshots
 
+![HR Employee Attrition Summary](https://github.com/user-attachments/assets/c82acb82-f976-4c9e-97fa-afa3aa0e5063)
+![Retention Prediction   Risk Scoring](https://github.com/user-attachments/assets/aecbebf6-6991-4e05-a9e6-1413bf81ffce)
+![KPI](https://github.com/user-attachments/assets/2c7fec51-4021-4deb-a194-173c8fe485f1)
 
-![Attrition Dashboard](screenshots/attrition-dashboard.png)
-![Retention Risk Analysis](screenshots/risk-score.png)
-![KPI Section](screenshots/kpi-section.png)
