@@ -3,7 +3,6 @@
 ![Power BI](https://img.shields.io/badge/tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![MySQL](https://img.shields.io/badge/tool-MySQL-blue?style=for-the-badge&logo=mysql)
 ![Excel](https://img.shields.io/badge/tool-Excel-green?style=for-the-badge&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/tool-Python-lightgrey?style=for-the-badge&logo=python)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
